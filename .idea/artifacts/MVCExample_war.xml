@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MVCExample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mvcexample-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MVCExample:war exploded" />
+    </root>
+  </artifact>
+</component>
